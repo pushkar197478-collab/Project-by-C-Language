@@ -27,7 +27,7 @@ int main()
 
          
     } while (guess != num);
-    printf(No of guesses: %d\n", guess_count  )
+    printf("No of guesses: %d\n", guess_count  );
 
     return 0;
 }
